@@ -34,9 +34,6 @@ This project implements basic shopping cart features:
 * Firebase (auth and realtime database)
 
 
-![Alt text](/screenshots/screenshot1.png?raw=true "Optional Title")
-
-
 ## Contributing
 
 As I use this for my own projects, I know this might not be the perfect approach
